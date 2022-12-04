@@ -136,9 +136,3 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 ----
 ----
 
-* Thanks To [Donlee_RoBot V1](https://github.com/PR0FESS0R-99/DonLee-robot-V1) IMDB Poster
-* Thanks To [bughunter0](https://github.com/bughunter0/ban-bot) Ban Bot
-* Thanks To [CrazyBotsz](https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2) Adv AutoFilter V2
-* Thanks To [TroJanzHEX](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) Manual Filter
-* Thanks To [EvamariaTG](https://github.com/EvamariaTG/EvaMaria) IMDB Raiting
-* Thanks To [FayasNoushad](https://github.com/FayasNoushad) TelegraPh 
